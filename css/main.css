@@ -1,0 +1,12 @@
+.row {
+    border: 1px solid black;
+}
+
+.one {
+    column-count: 4;
+}
+
+.cel {
+    width: 60px;
+    height: 60px;
+}
